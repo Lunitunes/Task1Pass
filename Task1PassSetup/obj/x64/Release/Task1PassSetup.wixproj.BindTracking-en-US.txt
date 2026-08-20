@@ -1,0 +1,8 @@
+BuiltContentOutput	C:\Users\Mattb\source\repos\Task1Pass\Task1PassSetup\obj\x64\Release\en-US\cab1.cab
+BuiltPdbOutput	C:\Users\Mattb\source\repos\Task1Pass\Task1PassSetup\obj\x64\Release\en-US\Task1PassSetup.wixpdb
+BuiltTargetOutput	C:\Users\Mattb\source\repos\Task1Pass\Task1PassSetup\obj\x64\Release\en-US\Task1PassSetup.msi
+Input	..\Task1Pass\bin\Release\net10.0\Task1Pass.deps.json
+Input	..\Task1Pass\bin\Release\net10.0\Task1Pass.dll
+Input	..\Task1Pass\bin\Release\net10.0\Task1Pass.exe
+Input	..\Task1Pass\bin\Release\net10.0\Task1Pass.runtimeconfig.json
+Intermediate	C:\Users\Mattb\source\repos\Task1Pass\Task1PassSetup\obj\x64\Release\en-US\cab1.cab

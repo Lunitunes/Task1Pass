@@ -1,0 +1,8 @@
+C:\Users\Mattb\source\repos\Task1Pass\Task1PassSetup\obj\x64\Release\Task1PassSetup.wixproj.CoreCompileInputs.cache
+C:\Users\Mattb\source\repos\Task1Pass\Task1PassSetup\bin\x64\Release\en-US\Task1PassSetup.msi
+C:\Users\Mattb\source\repos\Task1Pass\Task1PassSetup\bin\x64\Release\en-US\cab1.cab
+C:\Users\Mattb\source\repos\Task1Pass\Task1PassSetup\bin\x64\Release\en-US\Task1PassSetup.wixpdb
+C:\Users\Mattb\source\repos\Task1Pass\Task1PassSetup\obj\x64\Release\en-US\cab1.cab
+C:\Users\Mattb\source\repos\Task1Pass\Task1PassSetup\obj\x64\Release\en-US\Task1PassSetup.msi
+C:\Users\Mattb\source\repos\Task1Pass\Task1PassSetup\obj\x64\Release\en-US\Task1PassSetup.wixpdb
+C:\Users\Mattb\source\repos\Task1Pass\Task1PassSetup\obj\x64\Release\Task1PassSetup.wixproj.BindTracking-en-US.txt

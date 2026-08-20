@@ -1,0 +1,53 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Mattb\\source\\repos\\Task1Pass\\Task1PassSetup\\Task1PassSetup.wixproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Mattb\\source\\repos\\Task1Pass\\Task1PassSetup\\Task1PassSetup.wixproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mattb\\source\\repos\\Task1Pass\\Task1PassSetup\\Task1PassSetup.wixproj",
+        "projectName": "Task1PassSetup",
+        "projectPath": "C:\\Users\\Mattb\\source\\repos\\Task1Pass\\Task1PassSetup\\Task1PassSetup.wixproj",
+        "packagesPath": "C:\\Users\\Mattb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mattb\\source\\repos\\Task1Pass\\Task1PassSetup\\obj\\",
+        "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mattb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "native"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "native": {
+            "framework": "native",
+            "targetAlias": "native",
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "native": {
+          "framework": "native",
+          "targetAlias": "native"
+        }
+      }
+    }
+  }
+}

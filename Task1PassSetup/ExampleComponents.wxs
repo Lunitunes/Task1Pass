@@ -1,0 +1,22 @@
+<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs">
+  <Fragment>
+    <ComponentGroup Id="ExampleComponents" Directory="INSTALLFOLDER">
+      <Component>
+        <File Source="..\Task1Pass\bin\Release\net10.0\Task1Pass.exe" />
+      </Component>
+
+		<Component>
+			<File Source="..\Task1Pass\bin\Release\net10.0\Task1Pass.dll"/>
+		</Component>
+
+		<Component>
+			<File Source="..\Task1Pass\bin\Release\net10.0\Task1Pass.deps.json"/>
+		</Component>
+
+		<Component>
+			<File Source="..\Task1Pass\bin\Release\net10.0\Task1Pass.runtimeconfig.json"/>
+		</Component>
+		
+    </ComponentGroup>
+  </Fragment>
+</Wix>

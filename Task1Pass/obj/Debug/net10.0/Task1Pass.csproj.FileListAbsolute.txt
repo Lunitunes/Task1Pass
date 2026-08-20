@@ -1,0 +1,14 @@
+C:\Users\Mattb\source\repos\Task1Pass\Task1Pass\bin\Debug\net10.0\Task1Pass.exe
+C:\Users\Mattb\source\repos\Task1Pass\Task1Pass\bin\Debug\net10.0\Task1Pass.deps.json
+C:\Users\Mattb\source\repos\Task1Pass\Task1Pass\bin\Debug\net10.0\Task1Pass.runtimeconfig.json
+C:\Users\Mattb\source\repos\Task1Pass\Task1Pass\bin\Debug\net10.0\Task1Pass.dll
+C:\Users\Mattb\source\repos\Task1Pass\Task1Pass\bin\Debug\net10.0\Task1Pass.pdb
+C:\Users\Mattb\source\repos\Task1Pass\Task1Pass\obj\Debug\net10.0\Task1Pass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mattb\source\repos\Task1Pass\Task1Pass\obj\Debug\net10.0\Task1Pass.AssemblyInfoInputs.cache
+C:\Users\Mattb\source\repos\Task1Pass\Task1Pass\obj\Debug\net10.0\Task1Pass.AssemblyInfo.cs
+C:\Users\Mattb\source\repos\Task1Pass\Task1Pass\obj\Debug\net10.0\Task1Pass.csproj.CoreCompileInputs.cache
+C:\Users\Mattb\source\repos\Task1Pass\Task1Pass\obj\Debug\net10.0\Task1Pass.dll
+C:\Users\Mattb\source\repos\Task1Pass\Task1Pass\obj\Debug\net10.0\refint\Task1Pass.dll
+C:\Users\Mattb\source\repos\Task1Pass\Task1Pass\obj\Debug\net10.0\Task1Pass.pdb
+C:\Users\Mattb\source\repos\Task1Pass\Task1Pass\obj\Debug\net10.0\Task1Pass.genruntimeconfig.cache
+C:\Users\Mattb\source\repos\Task1Pass\Task1Pass\obj\Debug\net10.0\ref\Task1Pass.dll
